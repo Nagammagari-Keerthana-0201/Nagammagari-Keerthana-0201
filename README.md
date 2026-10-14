@@ -7,7 +7,7 @@
 <br/><br/>
 
 <a href="https://github.com/Nagammagari-Keerthana-0201?tab=repositories"><img src="https://img.shields.io/badge/Repositories-4338CA?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
-<a href="https://sai-keerthana-nagamma-gari-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="[https://sai-keerthana-nagamma-gari-portfolio.vercel.app/](https://sai-keerthana-nagamma-gari-portfoli.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/NagammagariKeerthana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:saikeerthana4002@gmail.com"><img src="https://img.shields.io/badge/Email-C026D3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
