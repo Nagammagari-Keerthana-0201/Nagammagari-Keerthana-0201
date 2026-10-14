@@ -7,7 +7,9 @@
 <br/><br/>
 
 <a href="https://github.com/Nagammagari-Keerthana-0201?tab=repositories"><img src="https://img.shields.io/badge/Repositories-4338CA?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
-<a href="[https://sai-keerthana-nagamma-gari-portfolio.vercel.app/](https://sai-keerthana-nagamma-gari-portfoli.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://sai-keerthana-nagamma-gari-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 <a href="https://www.linkedin.com/in/NagammagariKeerthana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:saikeerthana4002@gmail.com"><img src="https://img.shields.io/badge/Email-C026D3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
@@ -247,8 +249,7 @@ Finance-tracking application.
 
 <img src="https://img.shields.io/badge/JavaScript-4338CA?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/> <img src="https://img.shields.io/badge/HTML-7C3AED?style=flat-square&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-0891B2?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
 
-<a href="https://github.com/Nagammagari-Keerthana-0201?tab=repositories">Find repository →</a>
-
+<a href="https://github.com/Nagammagari-Keerthana-0201/personal-finance-tracker">View repository →</a>
 </td>
 </tr>
 <tr>
@@ -259,7 +260,7 @@ Task-management application.
 
 <img src="https://img.shields.io/badge/JavaScript-4338CA?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/> <img src="https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/Productivity-0891B2?style=flat-square" alt="Productivity"/>
 
-<a href="https://github.com/Nagammagari-Keerthana-0201?tab=repositories">Find repository →</a>
+<a href="https://github.com/Nagammagari-Keerthana-0201/TaskMasterPro">View repository →</a>
 
 </td>
 <td width="33%" valign="top">
@@ -269,7 +270,7 @@ Backend development project.
 
 <img src="https://img.shields.io/badge/Python-4338CA?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/FastAPI-7C3AED?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Backend-0891B2?style=flat-square" alt="Backend"/>
 
-<a href="https://github.com/Nagammagari-Keerthana-0201?tab=repositories">Find repository →</a>
+<a href="https://github.com/Nagammagari-Keerthana-0201/Health-Care-Backend">View repository →</a>
 
 </td>
 <td width="33%"></td>
