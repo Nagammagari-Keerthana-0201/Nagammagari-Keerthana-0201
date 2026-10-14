@@ -1,45 +1,39 @@
-# Hi, I'm Keerthana
+# Keerthana
 
-### Associate Software Engineer | AI/ML | Backend Development
+**Associate Software Engineer | AI/ML | Backend Engineering**
 
-I build practical software solutions using AI/ML, backend technologies, and modern web development tools.
+I develop AI-powered applications, backend services, and data-driven software solutions, with a focus on LLMs, document intelligence, machine learning, and API development.
 
-### About Me
-- Software engineer working on AI-powered applications and backend systems.
-- Interested in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), OCR, and Machine Learning.
-- Experienced in developing APIs, document-processing pipelines, and web applications.
-- Currently learning DevOps, CI/CD, and cloud technologies.
+## Featured Projects
 
-### Technical Skills
+### [AI-Powered Google Search Chatbot](https://github.com/Nagammagari-Keerthana-0201/AI-Powered_Google_Search_Chatbot)
+An AI-powered conversational application focused on search and information retrieval.
 
-**Languages:** Python, JavaScript, SQL
+### [Pest Infestation Risk Prediction](https://github.com/Nagammagari-Keerthana-0201/Pest-Infestation-Risk-Prediction-Tool-)
+A machine learning project focused on predicting pest infestation risk.
 
-**Frontend:** React.js, HTML, CSS, Tailwind CSS
+### [My Attendance Helper](https://github.com/Nagammagari-Keerthana-0201/My_attendence_Helper)
+A browser extension that analyzes Keka attendance logs, calculates worked and remaining time, and estimates logout time.
 
-**Backend:** FastAPI, REST APIs, WebSockets, Node.js
+### [Health Care Backend](https://github.com/Nagammagari-Keerthana-0201/Health-Care-Backend)
+A backend development project. See the repository documentation for implementation details.
 
-**AI/ML:** Machine Learning, NLP, LLMs, RAG, OCR
+## Technical Focus
 
-**Databases:** Qdrant, SQL databases
+- **Languages:** Python, JavaScript, SQL
+- **Backend:** FastAPI, REST APIs, WebSockets
+- **AI/ML:** LLMs, RAG, NLP, OCR, Machine Learning
+- **Frontend:** React.js, HTML, CSS, Tailwind CSS
+- **Data and Tools:** Qdrant, Git, GitHub, Linux
 
-**Tools:** Git, GitHub, Linux, Docker fundamentals
-
-### Featured Projects
-
-- **Pest Infestation Risk Prediction:** Machine learning for pest-risk prediction.
-- **AI-Powered Search Chatbot:** AI-based conversational search application.
-- **Stock Bot:** Stock-related application development.
-- **Developer Portfolio:** A showcase of my skills, projects, and experience.
-
-### Professional Experience
+## Experience
 
 **Associate Software Engineer**  
 Niruthi Climate & Ecosystems Pvt. Ltd. | May 2025 – Present
 
-Working on AI/ML applications, document intelligence, OCR, LLM-powered solutions, RAG pipelines, backend APIs, and web interfaces.
+Work involving AI/ML applications, document processing, OCR pipelines, LLM-based systems, RAG, backend APIs, and web interfaces.
 
-### Connect With Me
+## Links
 
-- GitHub: https://github.com/Nagammagari-Keerthana-0201
-- LinkedIn: Add your LinkedIn URL
-- Portfolio: Add your live portfolio URL
+- [GitHub Repositories](https://github.com/Nagammagari-Keerthana-0201?tab=repositories)
+- [Portfolio](https://sai-keerthana-nagamma-gari-portfolio.vercel.app/)
